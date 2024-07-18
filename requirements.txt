@@ -1,0 +1,9 @@
+bs4==0.0.2
+langchain==0.2.9
+langchain-community==0.2.7
+openai==1.35.14
+pyautogen==0.2.32
+pydantic==2.8.2
+pydantic_core==2.20.1
+pydantic-settings==2.3.4
+requests==2.32.3
